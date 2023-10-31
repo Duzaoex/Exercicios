@@ -1,0 +1,16 @@
+{
+  "name": "sd-033-live-lectures",
+  "version": "1.0.0",
+  "description": "# Repositório de aulas ao vivo para estudantes da Turma 33 😎 - A turma mais Top!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2"
+  }
+}

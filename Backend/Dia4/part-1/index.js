@@ -1,0 +1,1 @@
+console.log('Hello World! Versão do node:', process.version)
